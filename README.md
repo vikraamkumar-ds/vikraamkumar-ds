@@ -35,7 +35,7 @@
 
 ## 🚀 Featured Projects
 
-### 🚢 [Titanic EDA](https://github.com/YOUR_USERNAME/titanic-eda)
+### 🚢 [Titanic EDA](https://github.com/vikraamkumar-ds/titanic-eda)
 > Exploratory Data Analysis on the Titanic dataset — uncovering survival
 patterns through visualizations, feature correlations, and statistical insights.
 
