@@ -52,7 +52,7 @@ and model evaluation.
 
 ---
 
-### 🕸️ [Network Analysis — Facebook & 9/11](https://github.com/vikraamkumar-ds/student-performance-prediction)
+### 🕸️ [Network Analysis — Facebook & 9/11](https://github.com/vikraamkumar-ds/network-analysis-social)
 > Graph network analysis on real-world datasets — Facebook social network
 and 9/11 terrorist network. Computed centrality measures, community
 detection, and visualized network topology.
