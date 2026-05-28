@@ -35,6 +35,12 @@
 
 ## 🚀 Featured Projects
 
+### 🚢 [Pakistan Education Analysis](https://github.com/vikraamkumar-ds/Pakistan-Education-Analysis)
+Analyzing 6,095 rural schools across Pakistan using ASER 2023 data — EDA, gender gap analysis, Random Forest ML model & interactive Streamlit dashboard.
+`python` `Pandas` `Seaborn` `streamlit` `EDA` `machine-learning` `random-forest` `shap` `plotly` `data-science` `pakistan`
+`education` `scikit-learn` `gender-gap` `open-data` `jupyter-notebook`
+
+---
 ### 🚢 [Titanic EDA](https://github.com/vikraamkumar-ds/titanic-eda)
 > Exploratory Data Analysis on the Titanic dataset — uncovering survival
 patterns through visualizations, feature correlations, and statistical insights.
