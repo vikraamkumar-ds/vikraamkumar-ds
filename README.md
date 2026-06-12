@@ -33,16 +33,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏫 [Pakistan Education Analysis](https://github.com/vikraamkumar-ds/Pakistan-Education-Analysis)
+### [Pakistan Education Analysis](https://github.com/vikraamkumar-ds/Pakistan-Education-Analysis)
 > Analyzing 6,095 rural schools across Pakistan using ASER 2023 data — EDA, gender gap analysis, Random Forest ML model & interactive Streamlit dashboard.   
 
 `python` `Pandas` `Seaborn` `streamlit` `EDA` `machine-learning` `random-forest` `shap` `plotly` `data-science` `pakistan`
 `education` `scikit-learn` `gender-gap` `open-data` `jupyter-notebook`
 
 ---
-### 🚢 [Titanic EDA](https://github.com/vikraamkumar-ds/titanic-eda)
+### [Titanic EDA](https://github.com/vikraamkumar-ds/titanic-eda)
 > Exploratory Data Analysis on the Titanic dataset — uncovering survival
 patterns through visualizations, feature correlations, and statistical insights.
 
@@ -50,7 +50,7 @@ patterns through visualizations, feature correlations, and statistical insights.
 
 ---
 
-### 🎓 [Student Performance Prediction](https://github.com/vikraamkumar-ds/student-performance-prediction)
+### [Student Performance Prediction](https://github.com/vikraamkumar-ds/student-performance-prediction)
 > Machine Learning model to predict student academic performance based on
 behavioral, social, and academic features. Includes feature engineering
 and model evaluation.
@@ -59,7 +59,7 @@ and model evaluation.
 
 ---
 
-### 🕸️ [Network Analysis — Facebook & 9/11](https://github.com/vikraamkumar-ds/network-analysis-social)
+### [Network Analysis — Facebook & 9/11](https://github.com/vikraamkumar-ds/network-analysis-social)
 > Graph network analysis on real-world datasets — Facebook social network
 and 9/11 terrorist network. Computed centrality measures, community
 detection, and visualized network topology.
@@ -68,7 +68,7 @@ detection, and visualized network topology.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -80,7 +80,7 @@ detection, and visualized network topology.
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 - 📌 Network Analysis using real 9/11 & Facebook datasets
 - 📌 End-to-end ML pipeline on student performance data
@@ -89,7 +89,7 @@ detection, and visualized network topology.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-kumar-204013263/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.kumarvikram2k23@gmail.com)
